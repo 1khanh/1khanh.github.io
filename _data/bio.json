@@ -76,41 +76,6 @@ provide an extra 16,000MWh annually for Oahu to power over 32,000 homes for a mo
       ]
     }
   ],
-  "projects": [
-    {
-      "organization": "Rainbow Warrior Racing",
-      "website": "",
-      "position": "Powertrain System Lead/Powertrain Engineer",
-      "startDate": "2019-08-01",
-      "endDate": "2022-06-01",
-      "summary": "Powertrain Lead for development of UH Manoa's first electric vehicle",
-      "highlights": [
-        "Documented different stages of the design process with the team to draft reports, notebooks, and presentations
-such as the 1st place Francis Rhodes Montgomery Design Competition presentation",
-        "Facilitated communication between the accumulator/electronics and drivetrain team to integrate components such
-as the battery cooling system and pedal assembly into the powertrain system",
-        "Drafted circuit diagrams using SOLIDWORKS PCB for preliminary designs of the low voltage and high voltage
-lithium-ion tractive system",
-        "Developed high voltage infrastructure including lab space and safety operating procedures for UH Manoa’s
-Mechanical Engineering Shop Space"
-      ]
-    }
-],
-    {
-      "organization": "Liquid-Metal Electronics",
-      "website": "",
-      "position": "Research Member",
-      "startDate": "2019-01-01",
-      "endDate": "2019-05-01",
-      "summary": "",
-      "highlights": [
-        "Gathered information on alternative applications of liquid-metal to optimize manufacturing procedure for small
-scale electronics",
-        "Designed experimental set up using silicon stamps to apply liquid-metal into finer resolutions using additive and
-subtractive methods"
-      ]
-    }
-  ],
   "references": [
     {
       "name": "Available upon request"
