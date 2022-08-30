@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/RWR.png
+image: img/LM.png
 title: "Liquid-Metal Electronics"
 date: 2022-06-1
 published: true
