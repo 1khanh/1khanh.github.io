@@ -76,7 +76,7 @@ provide an extra 16,000MWh annually for Oahu to power over 32,000 homes for a mo
       ]
     }
   ],
-  "Projects": [
+  "projects": [
     {
       "organization": "Rainbow Warrior Racing",
       "website": "",
