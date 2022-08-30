@@ -22,20 +22,20 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Languages and Programs",
+      "keywords": [ "C", "C++", "Python", "MatLab", "SOLIDWORKS Electrical", "SOLIDWORKS PCB", "Microsoft Office" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Training",
+      "keywords": [ "Basic Machine Shop Training", "High Voltage Training" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Fall, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-08-21",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,69 +43,71 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Hawaii Undergraduate Initiative",
+      "position": "Student Coordinator",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-12-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Plan a six-week summer program that provides free summer school classes, resource workshops, and college-
+based activities to 60+ students transitioning into their first year of college",
+        "Manage multiple projects by leading groups such as the Registered Independent Organization, Peer Mentors, and
+Program Team to provide leadership activities to assist first-generation college students to strengthen a support
+network of 400+ HUI students, alumni, and campus resources",
+        "Offer opportunities for students to learn more about college and HUI through high school visits, campus tours,
+recruitment events, and informational sessions to get students excited about their future"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Clearway Energy Group",
+      "position": "Summer Intern",
+      "website": "",
+      "startDate": "2022-06-13",
+      "endDate": "2022-07-22",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Received daily presentations and mentorship from industry professionals on topics ranging from data analytics,
+photovoltaics, battery energy storage systems, project development, asset management, and construction",
+        "Utilized Python to filter Excel files containing all lost energy data to determine total energy lost due to
+curtailment and maintenance in a year span to calculate revenue losses from Kawailoa Solar Farm",
+        "Presented a final project proposal to build a Battery Energy Storage System (BESS) to store curtailed energy to
+provide an extra 16,000MWh annually for Oahu to power over 32,000 homes for a month"
       ]
     }
   ],
-  "volunteer": [
+  "Projects": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Rainbow Warrior Racing",
+      "website": "",
+      "position": "Powertrain System Lead/Powertrain Engineer",
+      "startDate": "2019-08-01",
+      "endDate": "2022-06-01",
+      "summary": "Powertrain Lead for development of UH Manoa's first electric vehicle",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Documented different stages of the design process with the team to draft reports, notebooks, and presentations
+such as the 1st place Francis Rhodes Montgomery Design Competition presentation",
+        "Facilitated communication between the accumulator/electronics and drivetrain team to integrate components such
+as the battery cooling system and pedal assembly into the powertrain system",
+        "Drafted circuit diagrams using SOLIDWORKS PCB for preliminary designs of the low voltage and high voltage
+lithium-ion tractive system",
+        "Developed high voltage infrastructure including lab space and safety operating procedures for UH Manoa’s
+Mechanical Engineering Shop Space"
       ]
     },
     {
-      "organization": "",
+      "organization": "Liquid-Metal Electronics",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Research Member",
+      "startDate": "2019-01-01",
+      "endDate": "2019-05-01",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Gathered information on alternative applications of liquid-metal to optimize manufacturing procedure for small
+scale electronics",
+        "Designed experimental set up using silicon stamps to apply liquid-metal into finer resolutions using additive and
+subtractive methods"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
