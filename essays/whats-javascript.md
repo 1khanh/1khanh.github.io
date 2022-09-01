@@ -4,7 +4,7 @@ type: essay
 title: "JavaScript? Who's that?"
 # All dates must be YYYY-MM-DD format!
 date: 2016-08-31
-published: false
+published: true
 labels:
   - JavaScript
 ---
