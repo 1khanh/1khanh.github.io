@@ -9,7 +9,6 @@ labels:
   - JavaScript
 ---
 
-# JavaScript? Who’s That?
 ## First Impressions about JavaScript
 I’ll be honest in saying that I haven’t really been keeping up with my coding as much as I should be so learning JavaScript has been great since there are many similarities to C/C++. There were a lot of familiar techniques such as writing the conditional statements such as if and else, writing functions, updating variables, and writing strings. I also got code using Python during my internship this past summer using it more for data analytics so I would say my small experience with different coding languages, JavaScript is more like when I would do C/C++ in EE160/EE205 but when learning ES6 it reminded me of Python because of the new features I was unfamiliar with that I need more practice with to confidently use it more. So far, I’ve been enjoying learning JavaScript and the class so as we progress throughout the semester, I hope to improve my skills in coding and feel competent in the JavaScript language.
 
