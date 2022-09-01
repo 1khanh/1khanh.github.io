@@ -4,7 +4,7 @@ type: essay
 title: "Found Out Turning It On And Off Again Isn't Software Engineering!"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-31
-published: false
+published: true
 labels:
   - Software Engineering
 ---
@@ -19,5 +19,6 @@ Throughout my undergraduate career, I have learned that I am very interested in 
 
 <img width="400px" class="rounded float-start pe-4" src="../img/solar.jpg"> 
 My past summer internship at Clearway Energy Group really helped open my eyes to the renewable energy industry here in Hawaii which motivates me even more to get my degree and apply my coding knowledge into any way possible to work in the industry. More information on my internship is on my projects page but it was really cool using python to filter over 10,000 lines of data to grab just the information I needed to determine the total potential revenue lost due to lost energy.
+
 
 In order to prepare myself for a future career, I would want to become better at coding because I feel like my courses usually consists of a semester of coding, then a semester or not coding, and the cycle repeats itself. I don't want to just code to pass the class and do everything the night before. I want to improve upon my skills by consistently practicing so I don't lose that coding knowledge. Right now I am feeling motivated and am actually enjoying my current coursework consisting of ICS and engineering courses and I hope that I remain like this so I can really absorb and continue to enjoy the classes.
