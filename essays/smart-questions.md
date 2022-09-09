@@ -11,8 +11,6 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
-
 ## Is there such thing as a stupid question?
 
 We've all heard of the saying "In the wrong place at the wrong time" but have you ever heard of "the wrong question at the wrong time?" Of course not, but if you have, maybe what was being asked wasn't a smart question. Asking help from others is an invaluable resource that should be taken advantage of whenever the opportunity arises like in a class when you didn't quite understand a topic that the professor just went over. Instead of asking the professor to simply repeat that last part, it is more beneficial to specify where the disconnect of knowledge happened such as not understanding how a class works in JavaScript. While you can ask if they could go over classes again, if the confusion lies within constructors, ask specifically about constructors like when do we have variables in the constructor or when do they don't? The point is, asking questions doesn't hurt but asking smart questions are guaranteed to benefit you and will prove to be a valuable resource.
