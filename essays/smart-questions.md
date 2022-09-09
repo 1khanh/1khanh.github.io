@@ -4,7 +4,7 @@ type: essay
 title: "Asking the Right Questions, the Smart Questions!"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-08
-published: false
+published: true
 labels:
   - Questions
   - Answers
@@ -99,3 +99,4 @@ Another take away for me would be how to present myself online as the people who
 
 This picture sums up what I learned.
 <img width="300px" class="rounded float-start pe-4" src="../img/smart.jpeg">
+But now I know how to fix them.
