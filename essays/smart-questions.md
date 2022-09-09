@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Asking the Right Questions, the Smart Questions!"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2022-09-08
 published: false
 labels:
   - Questions
@@ -15,85 +15,84 @@ labels:
 
 ## Is there such thing as a stupid question?
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+We've all heard of the saying "In the wrong place at the wrong time" but have you ever heard of "the wrong question at the wrong time?" Of course not, but if you have, maybe what was being asked wasn't a smart question. Asking help from other's is an invaluable resource that should be taken advantage of whenever the opportunity arises like in a class when you didn't quite understand a topic that the professor just went over. Instead of asking the professor to simply repeat that last part, it is more beneficial to specify where the disconnect of knowledge happened such as not understanding how a class works in JavaScript. While you can ask if they could go over classes again, if the confusion lies within constructors, ask specifically about constructors like when do we have variables in the constructor or when do they don't? The point is, asking questions doesn't hurt but asking smart questions are guaranteed to benefit you and will prove to be a valuable resource.
 
-## What’s a smart question?
-
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
-
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+## Smart Question vs This?
+### var functionName = function() {} vs function functionName() {}
 
 ```
-Q: python date of the previous month
+I've recently started maintaining someone else's JavaScript code. I'm fixing bugs, adding features and also trying to tidy up the code and make it more consistent.
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
+The previous developer used two ways of declaring functions and I can't work out if there is a reason behind it or not.
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
+The two ways are:
 
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
+var functionOne = function() {
+    // Some code
+};
+function functionTwo() {
+    // Some code
+}
 
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
-```
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
-
-```
-A: datetime and the datetime.timedelta classes are your friend.
-
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
-
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
+What are the reasons for using these two different methods and what are the pros and cons of each? Is there anything that can be done with one method that can't be done with the other?
 ```
  
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
+Going through Stack Overflow, I stumbled upon this post asking the difference between these two ways of declaring functions. At first, I was going to skip this post and look for a longer post because my initial thoughts were longer post equals smarter question but upon reviewing it more, I realized that this was a smart question. The author had a title that encapsulates the question being asked, a base level of knowledge and supporting background information was provided, and overall seems like a genuine question that they wanted clarification on from someone who is more knowledgable on the topic.
 
-## The foolproof way to get ignored.
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
+### What do nth prime of a number mean?
 ```
-Q: Facebook Desktop Notifier
+Given an input n, find out the nth prime?
 
-I am a beginner programmer that have never used anything other than what's included in a language.
+MyApproach
 
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
+What I understood
 
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
+For Example,
+
+For number 2 its nth position is 1
+
+For number 3 its nth position is 2 // For this input I get Expected output 5.
+
+For number 5 its nth position is 3
+
+public int computePrime(int n)
+{
+    int c=0;
+    boolean b=isPrime(n);
+    if((b==true))
+    {
+        c++;
+    }
+    return c;
+
+    //write your code here
+
+}
+public boolean isPrime(int n)
+{
+
+    for(int i=2;i<=n/2;)
+    {
+        if(n%i==0)
+        {
+            i++;
+        }
+
+    }
+    return true;
+}
+For Input
+
+Parameters  Actual Output   Expected Output
+'3'          1               5
+My Qn is Can anyone guide me what the statement mean.Am I correct in understanding the problem.I am not asking you to code for me.I will do it
 ```
+On the opposite end of the smart question spectrum would be this post, asking "What do nth prime of a number mean?" First off, the title doesn't have proper grammar but let's give it the benefit of the doubt and continue reading. It is pretty obvious even without them forming full sentences that they have some confusion and would would like clarification about the nth prime of a number. However, a code snippet is also included in the post without any specific requests or background on it which misleads commenters into believing that the author would like help with the code since Stack Overflow is a coding forum after all. This leads the author to become combative in the replies to comments including code that others took their time to post. 
 
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+### Differences between the two questions
+I wanted to talk about these two questions because of the two constrasting feelings with the posts. As I mentioned earlier, the first post was clear, concise, and seemed like the author has a genuine question that they wanted advice on. Compared to the not so elegant second post, the author was more aggressive and rude when it came to the reponses they got. You could also see the difference between the two questions through the quality of responses each post got as the first post had much more lengthy comments from people who wanted to help clear up any confusion that the author had while the second post when had someone straight up say "Ever heard of google?"
 
-## Conclusion
+## Smart Questions, Smarter Me
+When it comes to smart questions, I hope to never be like the author of the second post. Just the way that the author was so aggressive to the people helping them does not sit right with me and shouldn't be encouraged and also reinforces the idea of communication is key. Without properly expressing the goal of their question, one cannot receive the proper answers that they are seeking. This also includes providing useless or irrelevant information in the post or replies to other comments as it does not provide any value and takes away from the post.
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+Another take away for me would be how to present myself online as the people who are taking their own time to help me out with any future questions that I might have, I should be respectful and appreciate that they are willing to help. I wouldn't want to be viewed as aggressive or combative like the author of the second post and wouldn't want to seem unprofessional as well since a lot of these commenters are much more knowledgable than me. #humbled
