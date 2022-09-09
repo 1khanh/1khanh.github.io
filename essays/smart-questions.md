@@ -36,6 +36,7 @@ What are the reasons for using these two different methods and what are the pros
 ```
  
 Going through Stack Overflow, I stumbled upon this post asking the difference between these two ways of declaring functions. At first, I was going to skip this post and look for a longer post because my initial thoughts were longer post equals smarter question but upon reviewing it more, I realized that this was a smart question. The author had a title that encapsulates the question being asked, a base level of knowledge and supporting background information was provided, and overall seems like a genuine question that they wanted clarification on from someone who is more knowledgable on the topic.
+[Link to Post 1](https://stackoverflow.com/questions/336859/var-functionname-function-vs-function-functionname)
 
 ### What do nth prime of a number mean?
 ```
@@ -86,6 +87,7 @@ Parameters  Actual Output   Expected Output
 My Qn is Can anyone guide me what the statement mean.Am I correct in understanding the problem.I am not asking you to code for me.I will do it
 ```
 On the opposite end of the smart question spectrum would be this post, asking "What do nth prime of a number mean?" First off, the title doesn't have proper grammar but let's give it the benefit of the doubt and continue reading. It is pretty obvious even without them forming full sentences that they have some confusion and would would like clarification about the nth prime of a number. However, a code snippet is also included in the post without any specific requests or background on it which misleads commenters into believing that the author would like help with the code since Stack Overflow is a coding forum after all. This leads the author to become combative in the replies to comments including code that others took their time to post. 
+[Link to Post 2](https://stackoverflow.com/questions/33595892/what-do-nth-prime-of-a-number-mean)
 
 ### Differences between the two questions
 I wanted to talk about these two questions because of the two constrasting feelings with the posts. As I mentioned earlier, the first post was clear, concise, and seemed like the author has a genuine question that they wanted advice on. Compared to the not so elegant second post, the author was more aggressive and rude when it came to the reponses they got. You could also see the difference between the two questions through the quality of responses each post got as the first post had much more lengthy comments from people who wanted to help clear up any confusion that the author had while the second post when had someone straight up say "Ever heard of google?"
