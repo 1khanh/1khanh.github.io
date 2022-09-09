@@ -97,6 +97,6 @@ When it comes to smart questions, I hope to never be like the author of the seco
 
 Another take away for me would be how to present myself online as the people who are taking their own time to help me out with any future questions that I might have, I should be respectful and appreciate that they are willing to help. I wouldn't want to be viewed as aggressive or combative like the author of the second post and wouldn't want to seem unprofessional as well since a lot of these commenters are much more knowledgable than me. #humbled
 
-This picture sums up what I learned.
+This picture sums up what I learned. But now I know how to fix them.
 <img width="300px" class="rounded float-start pe-4" src="../img/smart.jpeg">
-But now I know how to fix them.
+
