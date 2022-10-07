@@ -3,15 +3,16 @@ layout: essay
 type: essay
 title: "I Love Coding Standards"
 # All dates must be YYYY-MM-DD format!
-date: 2022-09-22
+date: 2022-10-06
 published: true
 labels:
-  - Coding Standards
+  - UI Framworks
 ---
 
-## Learning what a Coding Standard is
+## Bootstrap Bootcamp
 At this point in ICS314, I have come to learn that everything we are learning is really difficult since it is very new to me but in return, it is also very helpful when it comes to coding. Bootstrap 5 especially has been very difficult because I had a hard time differentiating between normal HTML/CSS and incorporating Bootstrap 5. As reflected in my other assignments this past week with IslandSnow and the recreation of a Spotify Album as my chosen website, I did not complete it with much success as I underestimated the learning curve that came with Bootstrap 5 and I heavily relied more on raw HTML and CSS to design the websites.
 
+## Difference Between My .css Files
 For example, here is the style.css file from the Spotify Album Recreation.
 ```
 body {
@@ -160,8 +161,5 @@ li.nav-item.nav-link {
   color: white;
 }
 ```
-As you can see, there is such a vast difference between the two that shows using Bootstrap 5 to format and style the HTML code is a valuable resource to use. Literally, it turned over 100 lines of code to around 20 lines.
 
-Right now, the return for investment on using Bootstrap for me is not worth it as it led to a lot of frustration but as I get more familiar with it, I would say that it wouldn't even be a question on if it was worth it or not.
-
-<img width="300px" class="rounded float-start pe-4" src="../img/oodles.jpg">
+As you can see, there is such a vast difference between the two that shows using Bootstrap 5 to format and style the HTML code is a valuable resource to use. Literally, it turned over 100 lines of code to around 20 lines. I would say the return for investment on using Bootstrap for me is not worth it as it led to a lot of frustration but as I get more familiar with it, I would say that it wouldn't even be a question on if it was worth it or not. Overall, I would like to get better at Bootstrap 5 just because of learning more about frontend development and seeing how many cool websites and designs that can be created.
