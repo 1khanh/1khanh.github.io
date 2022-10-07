@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "I Love Coding Standards"
+title: "Bootstrap 5 made me cry"
 # All dates must be YYYY-MM-DD format!
 date: 2022-10-06
 published: true
 labels:
-  - UI Framworks
+  - UI Frameworks
 ---
 
 ## Bootstrap Bootcamp
@@ -162,4 +162,5 @@ li.nav-item.nav-link {
 }
 ```
 
+## I Love Bootstrap
 As you can see, there is such a vast difference between the two that shows using Bootstrap 5 to format and style the HTML code is a valuable resource to use. Literally, it turned over 100 lines of code to around 20 lines. I would say the return for investment on using Bootstrap for me is not worth it as it led to a lot of frustration but as I get more familiar with it, I would say that it wouldn't even be a question on if it was worth it or not. Overall, I would like to get better at Bootstrap 5 just because of learning more about frontend development and seeing how many cool websites and designs that can be created.
