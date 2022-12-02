@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Coming together like a well oiled machine"
+title: "Like a Well Oiled Machine"
 # All dates must be YYYY-MM-DD format!
 date: 2022-12-01
 published: true
