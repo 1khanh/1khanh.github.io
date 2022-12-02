@@ -15,7 +15,7 @@ Similar to how a car has multiple components that come together to make a workin
 For example, look at these two cars below. 
 
 
-<img width="300px" class="rounded float-start pe-4" src="../img/mcqueen.png"> <img width="300px" class="rounded float-start pe-4" src="../img/mater.png">
+<img width="300px" class="img-fluid" src="../img/mcqueen.png"> <img width="300px" class="img-fluid" src="../img/mater.png">
 
 This is a perfect example of a design pattern because although they use the same key components, they fulfill two slightly different problems. One is built for speed, and the other is built for utility but are both still cars.
 
@@ -23,7 +23,7 @@ This is a perfect example of a design pattern because although they use the same
 Just like a car pattern, the websites that we've been building in class also follow a similar design pattern where we use meteor to develop different websites and it all comes down to a lot of the same components.
 
 
-<img width="300px" class="rounded float-start pe-4" src="../img/intellij.png">
+<img width="300px" class="img-fluid" src="../img/intellij.png">
 
 A lot of the files that we use are contained in the imports folder where api contains all of our collections that we would use to store information used on the website. In startup, we have publications which allow us to access the information in the collection. Another main component would be the UI where we design the different components and webpages to display all the information nicely in a clean looking website.
 
