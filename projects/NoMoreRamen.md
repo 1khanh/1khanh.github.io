@@ -9,8 +9,7 @@ labels:
 - React
 - Meteor
 - Github
-
-  Summary: "No More Ramen is a web application where students can go to discover recipes that are more convenient to the average college student. With the convenience of these recipes, things like fancy kitchen equipment are not required, the ingredients are locally available, and will appeal to the taste of the locals."
+summary: "No More Ramen is a web application where students can go to discover recipes that are more convenient to the average college student. With the convenience of these recipes, things like fancy kitchen equipment are not required, the ingredients are locally available, and will appeal to the taste of the locals."
 ---
 
 For the ICS314 Final Project, I worked with a group of four other students to create a web application called No More Ramen. This website was meant to be a place where students and vendors could go to not only search up recipes, but had loads of functionality such as uploading your own recipes, vendors being able to add ingredients to their online inventory so users could see locally available ingredients, being able to favorite recipes, and even putting filters to help find certain recipes too.
