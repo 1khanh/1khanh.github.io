@@ -22,7 +22,7 @@ There were so many inconsistencies just regarding all of my spacings and bracket
 
 
 ## ESLint is Really Cool
-ESLint with IntelliJ has definetely been coming in clutch as it makes my code all nice and neat while helping me fix my bad coding habits. In the beginning, I thought the errors were really cool because I could just go in and right click them to automatically fix them but as I got used to using IntelliJ, the errors have gotten super annoying. Don't get me wrong, it's super helpful when there are actual mistakes but when it says my function has not been called before, it's just a big slap in the face because it's like duh, I just wrote the function and didn't call it yet, what do you expect?
+ESLint with IntelliJ has definitely been coming in clutch as it makes my code all nice and neat while helping me fix my bad coding habits. In the beginning, I thought the errors were really cool because I could just go in and right click them to automatically fix them but as I got used to using IntelliJ, the errors have gotten super annoying. Don't get me wrong, it's super helpful when there are actual mistakes but when it says my function has not been called before, it's just a big slap in the face because it's like duh, I just wrote the function and didn't call it yet, what do you expect?
 
 Also, even though it's realy useful, all the set up needed before we could use it was pretty painful as well. It isn't so bad now that I know I can just copy all the files over from an old IntelliJ project but there is no way I would've been able to set it up by myself or outside of this class.
 

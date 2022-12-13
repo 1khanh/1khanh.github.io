@@ -35,7 +35,7 @@ function functionTwo() {
 What are the reasons for using these two different methods and what are the pros and cons of each? Is there anything that can be done with one method that can't be done with the other?
 ```
  
-Going through Stack Overflow, I stumbled upon this post asking the difference between these two ways of declaring functions. At first, I was going to skip this post and look for a longer post because my initial thoughts were longer post equals smarter question but upon reviewing it more, I realized that this was a smart question. The author had a title that encapsulates the question being asked, a base level of knowledge and supporting background information was provided, and overall seems like a genuine question that they wanted clarification on from someone who is more knowledgable on the topic.
+Going through Stack Overflow, I stumbled upon this post asking the difference between these two ways of declaring functions. At first, I was going to skip this post and look for a longer post because my initial thoughts were longer post equals smarter question but upon reviewing it more, I realized that this was a smart question. The author had a title that encapsulates the question being asked, a base level of knowledge and supporting background information was provided, and overall seems like a genuine question that they wanted clarification on from someone who is more knowledgeable on the topic.
 [Link to Post 1](https://stackoverflow.com/questions/336859/var-functionname-function-vs-function-functionname)
 
 ### What do nth prime of a number mean?
@@ -95,7 +95,9 @@ I wanted to talk about these two questions because of the two constrasting feeli
 ## Smart Questions, Smarter Me
 When it comes to smart questions, I hope to never be like the author of the second post. Just the way that the author was so aggressive to the people helping them does not sit right with me and shouldn't be encouraged and also reinforces the idea of communication is key. Without properly expressing the goal of their question, one cannot receive the proper answers that they are seeking. This also includes providing useless or irrelevant information in the post or replies to other comments as it does not provide any value and takes away from the post.
 
-Another take away for me would be how to present myself online as the people who are taking their own time to help me out with any future questions that I might have, I should be respectful and appreciate that they are willing to help. I wouldn't want to be viewed as aggressive or combative like the author of the second post and wouldn't want to seem unprofessional as well since a lot of these commenters are much more knowledgable than me. #humbled
+Another take away for me would be how to present myself online as the people who are taking their own time to help me out with any future questions that I might have, I should be respectful and appreciate that they are willing to help. I wouldn't want to be viewed as aggressive or combative like the author of the second post and wouldn't want to seem unprofessional as well since a lot of these commenters are much more knowledgeable than me. #humbled
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart.jpeg"> This picture sums up what I learned. But now I know how to fix them.
+<img width="300px" class="rounded float-start pe-4" src="../img/smart.jpeg"> 
+
+This picture sums up what I learned. But now I know how to fix them.
 
