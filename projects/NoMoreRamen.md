@@ -18,7 +18,7 @@ I was tasked to work on the student and admin home pages shown below.
 
 <img width="500px" class="img-fluid" src="../img/studenthome.png" alt="">
 
-<img width="500px" class="img-fluid" src="../img/adminhome.png">
+<img width="500px" src="../img/adminhome.png">
 
 These home pages serve as a way to easily navigate through the application by accessing specific recipes and ingredients based on the type of user role that is associated with the results. 
 
