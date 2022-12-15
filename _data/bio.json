@@ -22,8 +22,8 @@
   ],
   "skills": [
     {
-      "name": "Languages and Programs",
-      "keywords": [ "C", "C++", "Python", "MatLab", "SOLIDWORKS Electrical", "SOLIDWORKS PCB", "Microsoft Office" ]
+      "name": "Languages and Skills",
+      "keywords": [ "JavaScript", "HTML/CSS", "C", "C++", "Python", "MatLab", "SOLIDWORKS Electrical", "SOLIDWORKS PCB", "Microsoft Office", "Meteor", "Bootstrap/React", "GitHub" ]
     },
     {
       "name": "Training",
