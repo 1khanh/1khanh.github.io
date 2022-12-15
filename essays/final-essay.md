@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Like a Well Oiled Machine"
+title: "Thank You ICS314"
 # All dates must be YYYY-MM-DD format!
 date: 2022-12-14
 published: true
@@ -18,7 +18,7 @@ When it comes to anything in life, you want to make sure you are properly equipp
 
 Talking about this reminds me of the Youtube video where someone uses Microsoft Word as their IDE which is painful to use as an IDE especially when working with others as there are no features, plugins, or shortcuts to help make everyone's life easier when working on the project.
 
-<img width="300px" class="img-fluid" src="../img/microsoft.png">
+<img width="600px" class="img-fluid" src="../img/microsoft.png">
 
 Learning how to use Git and Github would've been nice to know when I was coding in my previous classes. Being able to create and upload code with others being able to collaborate on it with no hassle should've been something that was taught earlier but unfortunately it wasn't. My past classmates didn't know about Github either so we would upload our code into text files and upload them into Google Drive or directly copy and paste our code into an email and send it over. With GitHub, I can see how much productivity and organization is greatly increased when utilized correctly. It is overall just a great tool when it comes to working on code individually and as a group since it can track different changes made to the code, revert to different versions in the code's history, and being able to have multiple people work on different components while being able to merge all the components together seamlessly. I have no doubt in my mind that Github is a valuable tool not just in designing a web application for a group project but anything that requires me to code from now on.
 
