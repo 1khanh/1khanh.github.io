@@ -4,7 +4,7 @@ type: project
 image: img/LM.png
 title: "Liquid-Metal Electronics"
 date: 2019-05-1
-published: true
+published: false
 labels:
   - Liquid-Metal
   - Galinstan
