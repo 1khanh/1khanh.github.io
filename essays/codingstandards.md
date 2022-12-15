@@ -15,9 +15,12 @@ If you were to ask me this question at the start of my college career, I wouldn'
 ## Contemplating my Past Code
 Although I never knew what a coding standard was until just recently, I do know about the term spaghetti coding and thinking back on my old code, I had oodles of noodles. 
 
-<img width="300px" class="rounded float-start pe-4" src="../img/oodles.jpg">
+<img width="300px" class="img-float" src="../img/oodles.jpg">
 
 There were so many inconsistencies just regarding all of my spacings and bracket locations. Especially when I had group projects, the code would be all over the place and I hope that my past team members can accept my apology.
+
+
+
 
 
 
