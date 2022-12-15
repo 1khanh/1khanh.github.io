@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "Khanh Nguyen",
+    "label": "Student",
+    "picture": "https://github.com/1khanh.png",
+    "email": "khanh2@hawaii.edu",
+    "phone": "808-636-1877",
+    "website": "https://1khanh.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Fall, 2023.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "1khanh", "url": "https://github.com/1khanh" },
+      { "network": "linkedin", "username": "Khanh Nguyen", "url": "https://www.linkedin.com/in/khanh-nguyen-666554190/" }
+    ]
+  },
+  "interests": [
+    { "name": "Renewable Energy" },
+    { "name": "Sustainability" },
+    { "name": "Electric Vehicles" },
+    { "name": "Internet of Things" },
+    { "name": "Embedded Systems" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Skills",
+      "keywords": [ "JavaScript", "HTML/CSS", "C", "C++", "Python", "MatLab", "SOLIDWORKS Electrical", "SOLIDWORKS PCB", "Microsoft Office", "Meteor", "Bootstrap/React", "GitHub" ]
+    },
+    {
+      "name": "Training",
+      "keywords": [ "Basic Machine Shop Training", "High Voltage Training" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Fall, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2017-08-21",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Hawaii Undergraduate Initiative",
+      "position": "Student Coordinator",
+      "website": "",
+      "startDate": "2018-12-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Plan a six-week summer program that provides free summer school classes, resource workshops, and college-
+based activities to 60+ students transitioning into their first year of college",
+        "Manage multiple projects by leading groups such as the Registered Independent Organization, Peer Mentors, and
+Program Team to provide leadership activities to assist first-generation college students to strengthen a support
+network of 400+ HUI students, alumni, and campus resources",
+        "Offer opportunities for students to learn more about college and HUI through high school visits, campus tours,
+recruitment events, and informational sessions to get students excited about their future"
+      ]
+    },
+    {
+      "company": "Clearway Energy Group",
+      "position": "Summer Intern",
+      "website": "",
+      "startDate": "2022-06-13",
+      "endDate": "2022-07-22",
+      "summary": "",
+      "highlights": [
+        "Received daily presentations and mentorship from industry professionals on topics ranging from data analytics,
+photovoltaics, battery energy storage systems, project development, asset management, and construction",
+        "Utilized Python to filter Excel files containing all lost energy data to determine total energy lost due to
+curtailment and maintenance in a year span to calculate revenue losses from Kawailoa Solar Farm",
+        "Presented a final project proposal to build a Battery Energy Storage System (BESS) to store curtailed energy to
+provide an extra 16,000MWh annually for Oahu to power over 32,000 homes for a month"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

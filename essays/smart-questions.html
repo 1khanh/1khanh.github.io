@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Asking the Right Questions, the Smart Questions! | Khanh Nguyen | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/1khanh.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Khanh Nguyen | Professional Portfolio">
+    <meta property="og:url" content="https://1khanh.github.io/essays/smart-questions.html">
+    <meta property="og:title" content="Asking the Right Questions, the Smart Questions! | Khanh Nguyen | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/1khanh.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Asking the Right Questions, the Smart Questions! | Khanh Nguyen | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Khanh Nguyen</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Asking the Right Questions, the Smart Questions!</h1>
+  <span class="date">08 Sep 2022</span>
+  <hr>
+  <h2 id="is-there-such-thing-as-a-stupid-question">Is there such thing as a stupid question?</h2>
+
+<p>We’ve all heard of the saying “In the wrong place at the wrong time” but have you ever heard of “the wrong question at the wrong time?” Of course not, but if you have, maybe what was being asked wasn’t a smart question. Asking help from others is an invaluable resource that should be taken advantage of whenever the opportunity arises like in a class when you didn’t quite understand a topic that the professor just went over. Instead of asking the professor to simply repeat that last part, it is more beneficial to specify where the disconnect of knowledge happened such as not understanding how a class works in JavaScript. While you can ask if they could go over classes again, if the confusion lies within constructors, ask specifically about constructors like when do we have variables in the constructor or when do they don’t? The point is, asking questions doesn’t hurt but asking smart questions are guaranteed to benefit you and will prove to be a valuable resource.</p>
+
+<h2 id="smart-question-vs-this">Smart Question vs This?</h2>
+<h3 id="var-functionname--function--vs-function-functionname-">var functionName = function() {} vs function functionName() {}</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>I've recently started maintaining someone else's JavaScript code. I'm fixing bugs, adding features and also trying to tidy up the code and make it more consistent.
+
+The previous developer used two ways of declaring functions and I can't work out if there is a reason behind it or not.
+
+The two ways are:
+
+var functionOne = function() {
+    // Some code
+};
+function functionTwo() {
+    // Some code
+}
+
+What are the reasons for using these two different methods and what are the pros and cons of each? Is there anything that can be done with one method that can't be done with the other?
+</code></pre></div></div>
+
+<p>Going through Stack Overflow, I stumbled upon this post asking the difference between these two ways of declaring functions. At first, I was going to skip this post and look for a longer post because my initial thoughts were longer post equals smarter question but upon reviewing it more, I realized that this was a smart question. The author had a title that encapsulates the question being asked, a base level of knowledge and supporting background information was provided, and overall seems like a genuine question that they wanted clarification on from someone who is more knowledgeable on the topic.
+<a href="https://stackoverflow.com/questions/336859/var-functionname-function-vs-function-functionname">Link to Post 1</a></p>
+
+<h3 id="what-do-nth-prime-of-a-number-mean">What do nth prime of a number mean?</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Given an input n, find out the nth prime?
+
+MyApproach
+
+What I understood
+
+For Example,
+
+For number 2 its nth position is 1
+
+For number 3 its nth position is 2 // For this input I get Expected output 5.
+
+For number 5 its nth position is 3
+
+public int computePrime(int n)
+{
+    int c=0;
+    boolean b=isPrime(n);
+    if((b==true))
+    {
+        c++;
+    }
+    return c;
+
+    //write your code here
+
+}
+public boolean isPrime(int n)
+{
+
+    for(int i=2;i&lt;=n/2;)
+    {
+        if(n%i==0)
+        {
+            i++;
+        }
+
+    }
+    return true;
+}
+For Input
+
+Parameters  Actual Output   Expected Output
+'3'          1               5
+My Qn is Can anyone guide me what the statement mean.Am I correct in understanding the problem.I am not asking you to code for me.I will do it
+</code></pre></div></div>
+<p>On the opposite end of the smart question spectrum would be this post, asking “What do nth prime of a number mean?” First off, the title doesn’t have proper grammar but let’s give it the benefit of the doubt and continue reading. It is pretty obvious even without them forming full sentences that they have some confusion and would would like clarification about the nth prime of a number. However, a code snippet is also included in the post without any specific requests or background on it which misleads commenters into believing that the author would like help with the code since Stack Overflow is a coding forum after all. This leads the author to become combative in the replies to comments including code that others took their time to post. 
+<a href="https://stackoverflow.com/questions/33595892/what-do-nth-prime-of-a-number-mean">Link to Post 2</a></p>
+
+<h3 id="differences-between-the-two-questions">Differences between the two questions</h3>
+<p>I wanted to talk about these two questions because of the two constrasting feelings with the posts. As I mentioned earlier, the first post was clear, concise, and seemed like the author has a genuine question that they wanted advice on. Compared to the not so elegant second post, the author was more aggressive and rude when it came to the reponses they got. You could also see the difference between the two questions through the quality of responses each post got as the first post had much more lengthy comments from people who wanted to help clear up any confusion that the author had while the second post when had someone straight up say “Ever heard of google?”</p>
+
+<h2 id="smart-questions-smarter-me">Smart Questions, Smarter Me</h2>
+<p>When it comes to smart questions, I hope to never be like the author of the second post. Just the way that the author was so aggressive to the people helping them does not sit right with me and shouldn’t be encouraged and also reinforces the idea of communication is key. Without properly expressing the goal of their question, one cannot receive the proper answers that they are seeking. This also includes providing useless or irrelevant information in the post or replies to other comments as it does not provide any value and takes away from the post.</p>
+
+<p>Another take away for me would be how to present myself online as the people who are taking their own time to help me out with any future questions that I might have, I should be respectful and appreciate that they are willing to help. I wouldn’t want to be viewed as aggressive or combative like the author of the second post and wouldn’t want to seem unprofessional as well since a lot of these commenters are much more knowledgeable than me. #humbled</p>
+
+<p><img width="300px" class="rounded float-start pe-4" src="../img/smart.jpeg" /></p>
+
+<p>This picture sums up what I learned. But now I know how to fix them.</p>
+
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
